@@ -3,6 +3,8 @@ package com.ayush.abc;
 public class abcd {
 
 
-sdfsdf
+public static void main(String args[]){
+	System.out.println("Hello");
+}
 
 }
